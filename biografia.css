@@ -1,0 +1,28 @@
+.bio{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+    background-color: antiquewhite;
+}
+
+.Principal{
+
+    width: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    width: 600px;
+    height: 500px;
+    padding: 50px;
+}
+
+.segundaria{
+    width: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    width: 600px;
+    height: 500px;
+    padding: 50px;
+    
+}
+
+
